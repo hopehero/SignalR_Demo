@@ -1,1 +1,2 @@
-# SignalR_Demo
+基于官方文档随便写的一个SignalR入门的Demo
+
